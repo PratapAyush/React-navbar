@@ -1,0 +1,23 @@
+.box{
+  
+  max-width: 100%;
+  min-height: 80px;
+  display: flex;
+  justify-content: space-around;
+  background-color: black;
+  color: aliceblue;
+}
+.box2{
+  display: flex;
+  justify-content: space-between;
+  width: 30%;
+}
+button{
+  width:150px ;
+  height: 40px;
+  border: 1px solid black;
+  border-radius: 50px;
+  margin-top: 13px;
+  color: aliceblue;
+  background-color: rgb(4, 120, 120);
+}
